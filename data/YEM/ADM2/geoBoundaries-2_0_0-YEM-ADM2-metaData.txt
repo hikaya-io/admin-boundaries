@@ -1,0 +1,12 @@
+boundaryID YEM-ADM2-2_0_0-G614
+boundaryISO YEM
+boundaryYear 2015.0
+boundaryType ADM2
+boundarySource-1 "Yemen Ministry of Local Administration/Central Statistical Organization"
+boundarySource-2 
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/yemen-admin-boundaries
+boundarySourceURL https://data.humdata.org/dataset/yemen-admin-boundaries
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/YEM/ADM2/geoBoundariesRelease_2_0_0-YEM-ADM2-all.zip

@@ -1,0 +1,12 @@
+boundaryID NER-ADM2-2_0_0-G400
+boundaryISO NER
+boundaryYear 2014.0
+boundaryType ADM2
+boundarySource-1 IGNN
+boundarySource-2 "United Nations Office for the Coordination of Humanitarian Affairs Niger"
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/niger-administrative-boundaries
+boundarySourceURL https://data.humdata.org/dataset/niger-administrative-boundaries
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/NER/ADM2/geoBoundariesRelease_2_0_0-NER-ADM2-all.zip

@@ -1,0 +1,12 @@
+boundaryID AGO-ADM2-2_0_0-G6
+boundaryISO AGO
+boundaryYear 2018.0
+boundaryType ADM2
+boundarySource-1 "Human Data Exchange"
+boundarySource-2 "United Nations Office for the Coordination of Humanitarian Affairs, ROSEA"
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/angola-administrative-levels-0-3
+boundarySourceURL https://data.humdata.org/dataset/angola-administrative-levels-0-3
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/AGO/ADM2/geoBoundariesRelease_2_0_0-AGO-ADM2-all.zip

@@ -1,0 +1,12 @@
+boundaryID MRT-ADM1-2_0_0-G385
+boundaryISO MRT
+boundaryYear 2013.0
+boundaryType ADM1
+boundarySource-1 "World Food Programme"
+boundarySource-2 "United Nations Office for the Coordination of Humanitarian Affairs Regional Office for West and Central Africa (Regional Office for West and Central Africa (ROWCA))"
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/mauritania-administrative-boundaries
+boundarySourceURL https://data.humdata.org/dataset/mauritania-administrative-boundaries
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/MRT/ADM1/geoBoundariesRelease_2_0_0-MRT-ADM1-all.zip

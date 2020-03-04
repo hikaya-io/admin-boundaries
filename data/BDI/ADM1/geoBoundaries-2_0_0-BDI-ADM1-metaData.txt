@@ -1,0 +1,12 @@
+boundaryID BDI-ADM1-2_0_0-G34
+boundaryISO BDI
+boundaryYear 2017.0
+boundaryType ADM1
+boundarySource-1 OpenStreetMap
+boundarySource-2 Wambacher
+boundaryLicense "Open Data Commons Open Database License 1.0"
+licenseDetail "Open Data Commons Open Database License 1.0"
+licenseSource https://www.openstreetmap.org/copyright
+boundarySourceURL https://wambachers-osm.website/boundaries/
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/BDI/ADM1/geoBoundariesRelease_2_0_0-BDI-ADM1-all.zip

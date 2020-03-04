@@ -1,0 +1,12 @@
+boundaryID MMR-ADM3-2_0_0-G374
+boundaryISO MMR
+boundaryYear 2014.0
+boundaryType ADM3
+boundarySource-1 "Myanmar Information Management Unit (MIMU), United Nations Development Programme (UNDP)"
+boundarySource-2 
+boundaryLicense "MIMU Data License (MIMU)"
+licenseDetail "Granted in terms of use"
+licenseSource http://themimu.info/license/
+boundarySourceURL http://geonode.themimu.info/layers/?limit=5&offset=10
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/MMR/ADM3/geoBoundariesRelease_2_0_0-MMR-ADM3-all.zip

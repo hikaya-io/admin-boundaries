@@ -1,0 +1,12 @@
+boundaryID TCD-ADM2-2_0_0-G541
+boundaryISO TCD
+boundaryYear 2017.0
+boundaryType ADM2
+boundarySource-1 "United Nations Office for the Coordination of Humanitarian Affairs, Chad"
+boundarySource-2 
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/chad-admin-boundaries-admin-1-and-admin-2
+boundarySourceURL https://data.humdata.org/dataset/chad-admin-boundaries-admin-1-and-admin-2
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/TCD/ADM2/geoBoundariesRelease_2_0_0-TCD-ADM2-all.zip

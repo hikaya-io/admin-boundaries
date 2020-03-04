@@ -1,0 +1,12 @@
+boundaryID CAF-ADM2-2_0_0-G88
+boundaryISO CAF
+boundaryYear 2016.0
+boundaryType ADM2
+boundarySource-1 "International Organization for Migration (IOM)"
+boundarySource-2 OpenStreetMap
+boundaryLicense "Other - Organization Specific"
+licenseDetail "Non-commercial use only"
+licenseSource https://www.humanitarianresponse.info/en/applications/data/page/terms-use
+boundarySourceURL https://data.humdata.org/dataset/central-african-republic-administrative-boundaries
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/CAF/ADM2/geoBoundariesRelease_2_0_0-CAF-ADM2-all.zip

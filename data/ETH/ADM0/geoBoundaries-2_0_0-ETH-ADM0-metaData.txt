@@ -1,0 +1,12 @@
+boundaryID ETH-ADM0-2_0_0-G181
+boundaryISO ETH
+boundaryYear 2016.0
+boundaryType ADM0
+boundarySource-1 "Open Africa"
+boundarySource-2 "Code for Ethiopia"
+boundaryLicense "Open Data Commons Open Database License 1.0"
+licenseDetail http://opendefinition.org/licenses/cc-by/
+licenseSource https://africaopendata.org/dataset/ethiopia-shapefiles
+boundarySourceURL https://africaopendata.org/dataset/ethiopia-shapefiles
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/ETH/ADM0/geoBoundariesRelease_2_0_0-ETH-ADM0-all.zip

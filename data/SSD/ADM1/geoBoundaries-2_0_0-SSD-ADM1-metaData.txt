@@ -1,0 +1,12 @@
+boundaryID SSD-ADM1-2_0_0-G514
+boundaryISO SSD
+boundaryYear 2014.0
+boundaryType ADM1
+boundarySource-1 "South Sudan Inter Cluster Information Management Working Group (ICIWG), National Bureau of Statistics (NBS)"
+boundarySource-2 "United Nations Office for the Coordination of Humanitarian Affairs South Sudan"
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/south-sudan-administrative-boundaries
+boundarySourceURL https://data.humdata.org/dataset/south-sudan-administrative-boundaries
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/SSD/ADM1/geoBoundariesRelease_2_0_0-SSD-ADM1-all.zip

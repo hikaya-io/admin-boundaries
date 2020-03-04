@@ -1,0 +1,12 @@
+boundaryID DJI-ADM2-2_0_0-G148
+boundaryISO DJI
+boundaryYear 2015.0
+boundaryType ADM2
+boundarySource-1 HDX
+boundarySource-2 
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/djibouti-administrative-levels-0-2-boundaries
+boundarySourceURL https://data.humdata.org/dataset/djibouti-administrative-levels-0-2-boundaries
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/DJI/ADM2/geoBoundariesRelease_2_0_0-DJI-ADM2-all.zip

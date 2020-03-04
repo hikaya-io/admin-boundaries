@@ -1,0 +1,12 @@
+boundaryID BDI-ADM2-2_0_0-G35
+boundaryISO BDI
+boundaryYear 2007.0
+boundaryType ADM2
+boundarySource-1 "New York University Spatial Data Repository, Stanford University"
+boundarySource-2 "Map Maker Limited"
+boundaryLicense "Public Domain"
+licenseDetail "License on metadata pop-up on source page "
+licenseSource https://geo.nyu.edu/catalog/stanford-th822mn7301#iso-metadata-reference-info
+boundarySourceURL https://geo.nyu.edu/catalog/stanford-th822mn7301
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/BDI/ADM2/geoBoundariesRelease_2_0_0-BDI-ADM2-all.zip

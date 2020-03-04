@@ -1,0 +1,12 @@
+boundaryID NPL-ADM0-2_0_0-G416
+boundaryISO NPL
+boundaryYear 2017.0
+boundaryType ADM0
+boundarySource-1 "Nepal Survey Department"
+boundarySource-2 "United Nations Office for the Coordination of Humanitarian Affairs Regional Office for Asia and the Pacific (ROAP)"
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/administrative-bounadries-of-nepal
+boundarySourceURL https://data.humdata.org/dataset/administrative-bounadries-of-nepal
+boundaryUpdate 2020-01-15
+downloadURL https://geoboundaries.org/data/geoBoundariesRelease_2_0_0/NPL/ADM0/geoBoundariesRelease_2_0_0-NPL-ADM0-all.zip
