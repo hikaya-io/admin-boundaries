@@ -1,6 +1,6 @@
 # Admin boundaries
 
-This is a collection of administrative boundaries compiled from various sources including: [GADM](https://gadm.org),[GeoBoundaries](https://www.geoboundaries.org/), and [UN sources](https://data.humdata.org/).
+This is a collection of administrative boundaries compiled from various sources including: [GADM](https://gadm.org), [GeoBoundaries](https://www.geoboundaries.org/), and [UN sources](https://data.humdata.org/).
 
 We collection houses administrative boundaries at different levels (i.e admin 0-4) and formats (.geojson, .shp, .csv) for easy use in web applications.
 
