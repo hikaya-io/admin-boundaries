@@ -1,0 +1,12 @@
+boundaryID PAN-ADM2-2_0_1-G434
+boundaryISO PAN
+boundaryYear 2012.0
+boundaryType ADM2
+boundarySource-1 "Milton Solano, of the Smithsonian Tropical Research Institute, on ArcGIS online"
+boundarySource-2 "GIS Laboratory. Smithsonian Tropical Research Institute, Panama, 2012"
+boundaryLicense "Creative Commons Attribution-ShareAlike 4.0 International License"
+licenseDetail "need to update"
+licenseSource https://www.arcgis.com/home/item.html?id=8f1c5499d3a8423888454cfee5b45586
+boundarySourceURL https://www.arcgis.com/home/item.html?id=8f1c5499d3a8423888454cfee5b45586
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/PAN/ADM2/geoBoundaries-2_0_1-PAN-ADM2-all.zip

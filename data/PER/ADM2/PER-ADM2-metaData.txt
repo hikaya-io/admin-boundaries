@@ -1,0 +1,12 @@
+boundaryID PER-ADM2-2_0_1-G438
+boundaryISO PER
+boundaryYear 2009.0
+boundaryType ADM2
+boundarySource-1 "Instituto Geográfico Nacional - IGN"
+boundarySource-2 "United Nations Office for the Coordination of Humanitarian Affairs Regional Office for Latin America and the Caribbean (ROLAC)"
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/limites-de-peru
+boundarySourceURL https://data.humdata.org/dataset/limites-de-peru
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/PER/ADM2/geoBoundaries-2_0_1-PER-ADM2-all.zip

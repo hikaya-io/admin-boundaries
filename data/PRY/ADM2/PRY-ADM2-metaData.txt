@@ -1,0 +1,12 @@
+boundaryID PRY-ADM2-2_0_1-G462
+boundaryISO PRY
+boundaryYear 2012.0
+boundaryType ADM2
+boundarySource-1 "Direcion General de Estadica, Encuestas y Censos"
+boundarySource-2 
+boundaryLicense "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+licenseDetail "Creative Commons V4"
+licenseSource https://twitter.com/WMgeoLab/status/1179001467669078017/photo/3
+boundarySourceURL http://geo.stp.gov.py/user/dgeec/tables/paraguay_2012_barrrios_y_localidades/public
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/PRY/ADM2/geoBoundaries-2_0_1-PRY-ADM2-all.zip
