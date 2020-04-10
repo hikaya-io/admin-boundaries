@@ -1,10 +1,15 @@
 # Admin boundaries
 
-This is a collection of administrative boundaries compiled from various sources including: [GADM](https://gadm.org), [GeoBoundaries](https://www.geoboundaries.org/), and [UN sources](https://data.humdata.org/).
+This is a collection of administrative boundaries compiled from various sources including: [GADM](https://gadm.org), [GeoBoundaries](https://www.geoboundaries.org/), and [UN sources](https://data.humdata.org/).<sup>1</sup> Our purpose is to make this data readily available to use in web applications.
 
-We collection houses administrative boundaries at different levels (i.e admin 0-4) and formats (.geojson, .shp, .csv) for easy use in web applications.
+ Administrative boundaries are organized by: 
+ * Country (ISO 3166 Alpha 3)
+ * Levels of granularity (i.e ADM 0-4)
+ * Data formats (.geojson, .shp, .csv)
 
-# How to navigate
+> <sup>1</sup> The main source of data is from Runfola, D., Seitz, L., Hobbs, L., Panginaban, J., Oberman, R. et al. geoBoundaries Global Administrative Database. http://www.geoboundaries.org.
+
+# How data is organized
 
 The collection uses the following folder structure:
 
@@ -34,6 +39,6 @@ Example: AFG-ADM0.geojson
 ## Roadmap
 
 In the future, we plan to add the following:
-- Add support for UN P-Code (placecode)
-- Integration with original source to refresh with any updates
-- Provide a map preview when exploring administrative boundaries
+* Add support for UN P-Code (placecode)
+* Integration with original source to refresh with any updates
+* Provide a map preview when exploring administrative boundaries

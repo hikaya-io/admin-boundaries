@@ -1,0 +1,12 @@
+boundaryID BOL-ADM3-2_0_1-G72
+boundaryISO BOL
+boundaryYear 2015.0
+boundaryType ADM3
+boundarySource-1 GeoBolivia
+boundarySource-2 
+boundaryLicense "Public Domain"
+licenseDetail "Public Domain; ""free use and access to information"""
+licenseSource https://geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/aeeb85a9-23df-48d4-a4e5-dd19e8b206db
+boundarySourceURL https://geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/aeeb85a9-23df-48d4-a4e5-dd19e8b206db
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/BOL/ADM3/geoBoundaries-2_0_1-BOL-ADM3-all.zip

@@ -1,0 +1,12 @@
+boundaryID BFA-ADM1-2_0_1-G45
+boundaryISO BFA
+boundaryYear 2017.0
+boundaryType ADM1
+boundarySource-1 "Second Administrative Level Boundaries Project (SALB), Institut Géographique du Burkina Faso (IGB)"
+boundarySource-2 "United Nations Office for the Coordination of Humanitarian Affairs Regional Office for West and Central Africa (Regional Office for West and Central Africa (ROWCA))"
+boundaryLicense "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+licenseDetail "Creative Commons Attribution for Intergovernmental Organizations"
+licenseSource https://data.humdata.org/dataset/burkina-faso-administrative-boundaries
+boundarySourceURL https://data.humdata.org/dataset/burkina-faso-administrative-boundaries
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/BFA/ADM1/geoBoundaries-2_0_1-BFA-ADM1-all.zip
