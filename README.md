@@ -12,6 +12,13 @@ The collection uses the following folder structure:
     - [ADM-LEVEL]
         - [FILE-FORMAT]
 
+In order for Hikaya applications to locate the file and render it within its applications, the following file format must be used:
+```
+[3-LETTER-ISO-CODE]-[ADM-LEVEL].geojson
+
+Example: AFG-ADM0.geojson
+```
+
 ## Example:
 
 - [AFG]
