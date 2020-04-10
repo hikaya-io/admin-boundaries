@@ -1,0 +1,12 @@
+boundaryID HTI-ADM3-2_0_1-G248
+boundaryISO HTI
+boundaryYear 2018.0
+boundaryType ADM3
+boundarySource-1 "FEWS NET"
+boundarySource-2 
+boundaryLicense "Other - Direct Permission"
+licenseDetail "Granted to redistribute in email"
+licenseSource https://twitter.com/WMgeoLab/status/1196504806980030464/photo/1
+boundarySourceURL http://www.fews.net/fews-data/334?tid=5&field_data_portal_date_start%5Bvalue%5D%5Byear%5D=&field_data_portal_date_start%5Bvalue%5D%5Bmonth%5D=&field_data_portal_date_end%5Bvalue%5D%5Byear%5D=&field_data_portal_date_end%5Bvalue%5D%5Bmonth%5D=
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/HTI/ADM3/geoBoundaries-2_0_1-HTI-ADM3-all.zip

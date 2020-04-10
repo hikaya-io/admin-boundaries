@@ -1,0 +1,12 @@
+boundaryID GNQ-ADM2-2_0_1-G227
+boundaryISO GNQ
+boundaryYear 2013.0
+boundaryType ADM2
+boundarySource-1 "World Resources Institute, Congo Forest Basin Atlas"
+boundarySource-2 
+boundaryLicense "Creative Commons Attribution - NonCommercial 4.0 International (CC BY-NC 4.0)"
+licenseDetail "Creative Commons BY 4.0 - Noted by CC icon on web page"
+licenseSource http://gnq-data.forest-atlas.org/datasets/equatorial-guinea-gis-data-2013
+boundarySourceURL http://gnq-data.forest-atlas.org/datasets/equatorial-guinea-gis-data-2013
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/GNQ/ADM2/geoBoundaries-2_0_1-GNQ-ADM2-all.zip

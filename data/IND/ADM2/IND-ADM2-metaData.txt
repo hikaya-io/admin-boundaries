@@ -1,0 +1,12 @@
+boundaryID IND-ADM2-2_0_1-G257
+boundaryISO IND
+boundaryYear 2011.0
+boundaryType ADM2
+boundarySource-1 "Datameet Group of India"
+boundarySource-2 
+boundaryLicense "Creative Commons Attribution 2.5 India (CC BY 2.5 IN)"
+licenseDetail 
+licenseSource http://projects.datameet.org/maps/districts/
+boundarySourceURL http://projects.datameet.org/maps/districts/
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/IND/ADM2/geoBoundaries-2_0_1-IND-ADM2-all.zip
