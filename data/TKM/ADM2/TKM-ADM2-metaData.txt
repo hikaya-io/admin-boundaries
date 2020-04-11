@@ -1,0 +1,12 @@
+boundaryID TKM-ADM2-2_0_1-G553
+boundaryISO TKM
+boundaryYear 2009.0
+boundaryType ADM2
+boundarySource-1 CIESIN
+boundarySource-2 SEDAC
+boundaryLicense "Other - Organization Specific"
+licenseDetail "Free to redistribute for non-commercial use; digitized from Turkmenistan PNG"
+licenseSource https://sedac.ciesin.columbia.edu/privacy
+boundarySourceURL http://sedac.ciesin.columbia.edu/data/set/grump-v1-population-density/maps/7
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/TKM/ADM2/geoBoundaries-2_0_1-TKM-ADM2-all.zip

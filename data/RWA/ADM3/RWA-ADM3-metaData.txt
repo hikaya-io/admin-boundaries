@@ -1,0 +1,12 @@
+boundaryID RWA-ADM3-2_0_1-G478
+boundaryISO RWA
+boundaryYear 2012.0
+boundaryType ADM3
+boundarySource-1 "Open Data Rwanda"
+boundarySource-2 
+boundaryLicense "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+licenseDetail 
+licenseSource http://www.statistics.gov.rw/terms-use
+boundarySourceURL http://geodata-nisr.opendata.arcgis.com/datasets/7083c6f446ae41c1bc69649f577f8a68_0
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/RWA/ADM3/geoBoundaries-2_0_1-RWA-ADM3-all.zip

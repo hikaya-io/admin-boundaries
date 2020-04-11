@@ -1,0 +1,12 @@
+boundaryID TUR-ADM1-2_0_1-G568
+boundaryISO TUR
+boundaryYear 2017.0
+boundaryType ADM1
+boundarySource-1 "General Command of Mapping"
+boundarySource-2 "Regional IM Working Group - Europe"
+boundaryLicense "Other - Humanitarian"
+licenseDetail "Humanitarian use only - Noted in metadata tab"
+licenseSource https://data.humdata.org/dataset/turkey-administrative-boundaries-levels-0-1-2
+boundarySourceURL https://data.humdata.org/dataset/turkey-administrative-boundaries-levels-0-1-2
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/TUR/ADM1/geoBoundaries-2_0_1-TUR-ADM1-all.zip

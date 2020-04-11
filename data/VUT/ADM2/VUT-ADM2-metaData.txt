@@ -1,0 +1,12 @@
+boundaryID VUT-ADM2-2_0_1-G606
+boundaryISO VUT
+boundaryYear 2014.0
+boundaryType ADM2
+boundarySource-1 POPGIS
+boundarySource-2 
+boundaryLicense "Other - Direct Permission"
+licenseDetail "Granted to redistribute in email"
+licenseSource https://twitter.com/WMgeoLab/status/1196561929726128128/photo/1
+boundarySourceURL http://prism.spc.int/regional-data-and-tools/popgis2
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/VUT/ADM2/geoBoundaries-2_0_1-VUT-ADM2-all.zip

@@ -1,0 +1,12 @@
+boundaryID SLE-ADM4-2_0_1-G501
+boundaryISO SLE
+boundaryYear 2016.0
+boundaryType ADM4
+boundarySource-1 "Open Africa"
+boundarySource-2 "Code for Sierra Leone"
+boundaryLicense "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+licenseDetail "Open Data "
+licenseSource https://africaopendata.org/dataset/sierra-leone-admin-level-4-boundaries
+boundarySourceURL https://africaopendata.org/dataset/sierra-leone-admin-level-4-boundaries
+boundaryUpdate 2020-01-16
+downloadURL https://geoboundaries.org/data/geoBoundaries-2_0_1/SLE/ADM4/geoBoundaries-2_0_1-SLE-ADM4-all.zip
