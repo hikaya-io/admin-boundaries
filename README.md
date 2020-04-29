@@ -9,7 +9,7 @@ This is a collection of administrative boundaries compiled from various sources 
 
 > <sup>1</sup> The main source of data is from Runfola, D., Seitz, L., Hobbs, L., Panginaban, J., Oberman, R. et al. geoBoundaries Global Administrative Database. http://www.geoboundaries.org.
 
-# How data is organized
+# How the data is organized
 
 The collection uses the following folder structure:
 
