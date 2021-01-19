@@ -1,0 +1,12 @@
+boundaryID JOR-ADM2-3_0_0-G284
+boundaryISO JOR
+boundaryYear 2015.0
+boundaryType ADM2
+boundarySource-1 citypopulation.de
+boundarySource-2 
+boundaryLicense "Open Data Commons Open Database License 1.0"
+licenseDetail "Open Data Commons Open Database License 1.0"
+licenseSource https://www.citypopulation.de/en/jordan/admin/
+boundarySourceURL https://www.citypopulation.de/en/jordan/admin/
+boundaryUpdate 2020-05-25
+downloadURL https://geoboundaries.org/data/geoBoundaries-3_0_0/JOR/ADM2/geoBoundaries-3_0_0-JOR-ADM2-all.zip
